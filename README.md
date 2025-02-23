@@ -1,4 +1,4 @@
-Requires the python package `pyotp`
+Requires the python packages `pyotp` and `pycryptodome`
 
 Use the AndOTP bakup option, with the type of Encrypted.  Choose a password for it and save it in a location you can retrieve it from (e.g. upload to a drive service, email to yourself, etc)
 
