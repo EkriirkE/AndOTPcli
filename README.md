@@ -6,7 +6,7 @@ Save the file as "authenticator.json.aes" in the same folder this script runs in
 
 Run the script
 
-# python authenticator.py
+$ python authenticator.py
 
 Enter the password you saved the backup as
 
