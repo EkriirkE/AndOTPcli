@@ -19,7 +19,7 @@ You will be prompted with a live list of OTP accounts, the current code, and a t
     
     Next refresh in 42...
 
-If you press the case-sensitive letter of the OTP item, you will be presented iwth a QR code to scan and import into another OTP app.
+If you press the case-sensitive number/letter of the OTP item, you will be presented with a QR code to scan and import into another OTP app.
  - This requires the local system package `qrencode` to be installed
 
 Press Ctrl-C to exit.
